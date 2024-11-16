@@ -174,8 +174,6 @@ multer: For handling file uploads (if applicable).
 OAuth2: For Google authentication (optional).
 ```
 
-You can now copy and paste this directly into your README file. Let me know if you need further modifications!
-
 The system uses JWT for authentication. Include the token in the Authorization header:
 ```
 Authorization: Bearer <token>
