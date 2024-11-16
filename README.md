@@ -174,7 +174,3 @@ multer: For handling file uploads (if applicable).
 OAuth2: For Google authentication (optional).
 ```
 
-The system uses JWT for authentication. Include the token in the Authorization header:
-```
-Authorization: Bearer <token>
-```
