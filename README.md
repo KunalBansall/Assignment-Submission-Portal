@@ -161,6 +161,17 @@ You can obtain a token by logging in with the `/api/auth/login` endpoint.
    ```bash
    Authorization: Bearer <admin_token>
    ```
+
+## Technologies Used
+Node.js: JavaScript runtime environment.
+Express.js: Web framework for Node.js.
+MongoDB: NoSQL database for storing users and assignments.
+JWT: JSON Web Tokens for user authentication.
+bcryptjs: For password hashing.
+dotenv: To manage environment variables.
+express-validator: To validate incoming requests.
+multer: For handling file uploads (if applicable).
+OAuth2: For Google authentication (optional).
 ```
 
 You can now copy and paste this directly into your README file. Let me know if you need further modifications!
