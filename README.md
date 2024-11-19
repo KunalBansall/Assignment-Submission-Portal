@@ -9,7 +9,7 @@ A robust backend system for managing assignment submissions with user and admin 
 - Assignment review system (accept/reject)
 - OAuth2 integration
 - JWT Authentication
-- Role-Based C
+- Role-Based Controls
 - MongoDB database
 - Express.js backend
 
@@ -170,7 +170,6 @@ JWT: JSON Web Tokens for user authentication.
 bcryptjs: For password hashing.
 dotenv: To manage environment variables.
 express-validator: To validate incoming requests.
-multer: For handling file uploads (if applicable).
-OAuth2: For Google authentication (optional).
+OAuth2: For Google authentication .
 ```
 
